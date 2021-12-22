@@ -10,7 +10,7 @@ Craft, decraft, and smelt more in this Minecraft 1.18+ Datapack
 3. Drag into the `datapacks` folder of your desired world
 
 ## Craft:
-Arrow:
+Arrow: 
 
 ![](https://i.gyazo.com/692932230bf3add0f7e12e5c327ca341.png)
 
@@ -40,8 +40,14 @@ Horse Armor (all):
 
 ![](https://i.gyazo.com/9bcecbecfc299ad1300fe9a60fd53bee.png)
 
+Leather Armor (all)
+
+Saddle -> 5 leather
+
 ## Smelt:
 
 Anvil: 1 iron block
 Chipped Anvil: 1 iron ingot
 Damaged Anvil: 1 iron ingot
+
+Rotten Flesh: 1 leather
