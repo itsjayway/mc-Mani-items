@@ -3,9 +3,11 @@ Craft, decraft, and smelt more in this Minecraft 1.18+ Datapack
 
 ## Installation:
 
-Click the green `Code` button at the top right
+1. Click the green `Code` button at the top right
 
-Click `Download ZIP`
+2. Click `Download ZIP`
+
+3. Drag into the `datapacks` folder of your desired world
 
 ## Craft:
 Arrow:
