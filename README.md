@@ -10,7 +10,7 @@ Craft, decraft, and smelt more in this Minecraft 1.18+ Datapack
 3. Drag into the `datapacks` folder of your desired world
 
 ## Craft:
-Arrow: 
+Arrow: edit: craft it in a vertical line
 
 ![](https://i.gyazo.com/692932230bf3add0f7e12e5c327ca341.png)
 
