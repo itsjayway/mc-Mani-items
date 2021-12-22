@@ -1,16 +1,12 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-        "G G",
-        "GGG",
-        "G G"
-    ],
-    "key": {
-        "G": {
-            "item": "minecraft:gold_ingot"
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:gold_horse_armor"
         }
-    },
+    ],
     "result": {
-        "item": "minecraft:gold_horse_armor"
+        "item": "minecraft:gold_ingot",
+        "count": 7
     }
 }
