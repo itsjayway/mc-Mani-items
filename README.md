@@ -1,6 +1,10 @@
 # Mani-items
 Craft, decraft, and smelt more in this Minecraft 1.18+ Datapack
 
+## Installation:
+
+Download as a zip and drop in your datapacks folder.
+
 ## Craft:
 Arrow:
 
