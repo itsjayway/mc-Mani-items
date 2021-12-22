@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:shaped_crafting",
+    "pattern": [
+        "G G",
+        "GGG",
+        "G G"
+    ],
+    "key": {
+        "G": {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:gold_horse_armor"
+    }
+}

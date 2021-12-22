@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "minecraft:damaged_anvil"
+    },
+    "result": "minecraft:iron_ingot",
+    "experience": 0.5,
+    "cookingtime": 800
+}
